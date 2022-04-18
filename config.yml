@@ -1,0 +1,8 @@
+admin_ids:
+- 1215729890
+commands:
+    -   text: /help
+    -   text: /watch
+        details: details
+    -   text: /stop_watch
+        details: Stop sending charts of a selected crypto pair
